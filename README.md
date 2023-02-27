@@ -1,3 +1,0 @@
-# gitclass
-# battery
-# battery
